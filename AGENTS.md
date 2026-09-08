@@ -4,7 +4,7 @@
 - **Repository**: `webdev0814/mouse-gravity-field`
 - **Visibility**: `Public`
 - **Default Branch**: `main`
-- **Last Updated / Pushed**: 2026-09-04
+- **Last Updated / Pushed**: 2026-09-08
 - **Description**: Interactive physics and gravity-inspired cursor particle field demo built using HTML5 Canvas.
 - **Context from README**: A small standalone HTML/CSS/JS demo of a cursor-reactive particle field with smooth gravity-inspired motion. - A lightweight, no-build static demo - Responsive mouse interaction with floaty particles and subtle parallax - Designed to feel calm, premium, and reusable
 - **Topics/Tags**: canvas-api, interactive, javascript, physics-simulation
@@ -38,6 +38,9 @@
 
 ## 4. Recent Commit Activity (Where We Left Off)
 The most recent commits show the latest development trajectory:
+- `[b232c4b]` (2026-09-08) docs: update agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
+- `[ee80b5b]` (2026-09-08) docs: update agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
+- `[27465c5]` (2026-09-08) docs: update agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[a481bc4]` (2026-09-08) docs: update agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[8447e62]` (2026-09-08) docs: update agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[4d5e1d2]` (2026-09-08) docs: update agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
@@ -45,9 +48,6 @@ The most recent commits show the latest development trajectory:
 - `[8658d49]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[3612f5d]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[9716ca8]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
-- `[4582d56]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
-- `[04cfabd]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
-- `[7086fa1]` (2026-06-04) Initial commit
 
 ---
 
